@@ -14,7 +14,6 @@ Clash 在 Windows 平台目前使用最流行的客户端有两款：**Clash for
 
 **下载：**[点击前往下载](https://dl.haojichang.com/apps/clash_for_windows/)
 
-**使用教程：**
 
 ### 2、Clash Verge
 
@@ -22,7 +21,6 @@ Clash 在 Windows 平台目前使用最流行的客户端有两款：**Clash for
 
 **下载：**[点击前往下载](https://dl.haojichang.com/apps/clash-verge/)
 
-**使用教程：**
 
 ## macOS 平台
 
@@ -34,15 +32,12 @@ Clash 在 Windows 平台目前使用最流行的客户端有两款：**Clash for
 
 **下载：**[点击前往下载](https://dl.haojichang.com/apps/ClashX/)
 
-**使用教程：**
-
 ### 2、Clash Verge
 
 **特点：** 基于 Electron 的跨平台图形客户端，界面现代。
 
 **下载：**[点击前往下载](https://dl.haojichang.com/apps/clash-verge/)
 
-**使用教程：**
 
 ### 3、Clash for Windows
 
@@ -50,7 +45,6 @@ Clash 在 Windows 平台目前使用最流行的客户端有两款：**Clash for
 
 **下载：**[点击前往下载](https://archive.org/download/clash_for_windows_pkg)
 
-**使用教程：**
 
 ## Android 平台客户端
 
@@ -60,7 +54,6 @@ Clash 在 Windows 平台目前使用最流行的客户端有两款：**Clash for
 
 **下载：**[点击前往下载](https://dl.haojichang.com/apps/clash_for_android/)
 
-**使用教程：**
 
 ### 2、ClashA
 
