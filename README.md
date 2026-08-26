@@ -6,20 +6,20 @@ Clash 是一个开源的跨平台网络代理工具，主要用于帮助用户�
 
 ## Windows 平台
 
-Clash 在 Windows 平台目前使用最流行的客户端有两款：**Clash for Windows**、**Clash Verge**
+Clash 在 Windows 平台目前使用最流行的客户端有两款：**FlClash**、**Clash Verge Rev**
 
-### 1、Clash for Windows (CFW)
+### 1、FlClash
 
 **特点：** 图形化客户端，功能强大，支持订阅管理、规则分流、流量统计，适合大多数用户。
 
-**下载：**[点击前往下载](https://dl.haojichang.com/apps/clash_for_windows/)
+**下载：**[点击前往下载](https://github.clash.download/chen08209/FlClash/releases/download/v0.8.96/FlClash-0.8.96-windows-amd64-setup.exe)
 
 
-### 2、Clash Verge
+### 2、Clash Verge Rev
 
 **特点：** 基于 Electron 的跨平台图形客户端，界面现代。
 
-**下载：**[点击前往下载](https://dl.haojichang.com/apps/clash-verge/)
+**下载：**[点击前往下载](https://github.clash.download/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_x64-setup.exe)
 
 
 ## macOS 平台
@@ -30,36 +30,36 @@ Clash 在 Windows 平台目前使用最流行的客户端有两款：**Clash for
 
 **特点：** 原生 macOS 图形客户端，界面简洁美观，支持从菜单栏快速操作，适合大多数 macOS 用户。
 
-**下载：**[点击前往下载](https://dl.haojichang.com/apps/ClashX/)
+**下载：**[点击前往下载](https://github.clash.download/MetaCubeX/ClashX.Meta/v1.4.4/ClashX.Meta.zip)
 
 ### 2、Clash Verge
 
 **特点：** 基于 Electron 的跨平台图形客户端，界面现代。
 
-**下载：**[点击前往下载](https://dl.haojichang.com/apps/clash-verge/)
+**下载：**[点击前往下载](https://github.clash.download/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_aarch64.dmg)
 
 
 ### 3、Clash for Windows
 
 **特点：** 虽然名字是 “Windows”，但它是一个 跨平台工具，支持 Windows 和 macOS。功能强大，专业性更强。
 
-**下载：**[点击前往下载](https://archive.org/download/clash_for_windows_pkg)
+**下载：**[点击前往下载](https://github.clash.download/clash-download/Clash-for-Windows/releases/download/v0.20.39/clash-for-windows.dmg)
 
 
 ## Android 平台客户端
 
-### 1、Clash for Android (CFA)
+### 1、Clash Meta for Android (CFA)
 
 **特点：** 功能全面的 Android 客户端，支持订阅管理和规则分流。
 
-**下载：**[点击前往下载](https://dl.haojichang.com/apps/clash_for_android/)
+**下载：**[点击前往下载](https://github.clash.download/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.33/cmfa-2.11.33-meta-arm64-v8a-release.apk)
 
 
-### 2、ClashA
+### 2、FlClash
 
 **特点：** 简化版 Android 客户端，专注于节点切换和基本代理功能。
 
-**下载：**[点击前往下载](https://dl.haojichang.com/apps/clash_for_android/)
+**下载：**[点击前往下载](https://github.clash.download/chen08209/FlClash/releases/download/v0.8.96/FlClash-0.8.96-android-arm64-v8a.apk)
 
 ## iOS 平台客户端
 
@@ -71,15 +71,13 @@ Clash 目前没有官方的 iOS 版本，但 iOS 用户仍然可以使用一些�
 
 **下载：**[点击前往下载](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
-### 2、Stash
+### 2、ClashMi
 
-**特点：** 支持 Clash 的规则和订阅管理，界面更现代化。可实现更复杂的分流规则与高级操作，适合进阶用户。
+**特点：** 支持 Clash 的规则和订阅管理，界面更现代化，免费下载安装。
 
-**下载：**[点击前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)
+**下载：**[点击前往下载](https://apps.apple.com/us/app/clash-mi/id6744321968)
 
 ## Clash节点推荐
-
-
 
 ### 1、TAG 机场 - 老牌精品翻墙机场
 
