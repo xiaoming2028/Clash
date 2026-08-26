@@ -140,3 +140,10 @@ Clash 目前没有官方的 iOS 版本，但 iOS 用户仍然可以使用一些�
 ![微信截图_20230219105727](https://user-images.githubusercontent.com/125964212/220576524-0c30cc63-98ab-4fad-89c0-10a6984c647e.png)
 
 ![微信截图_20230219111003](https://user-images.githubusercontent.com/125964212/220576570-531d8ecb-3ec5-4e64-b37c-c15698ae0313.png)
+
+## 推荐阅读：
+
+- [TAG 机场多年使用和套餐评测](https://github.com/xiaoming2028/TAG-VPN)
+- [MESL 节点、家宽 IP 和流媒体评测](https://github.com/xiaoming2028/MESL)
+- [WgetCloud 两年使用和套餐评测](https://github.com/xiaoming2028/WgetCloud)
+- [红杏云套餐、多设备和客户端评测](https://github.com/xiaoming2028/hongxingyun)
