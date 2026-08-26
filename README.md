@@ -101,7 +101,7 @@ Clash 目前没有官方的 iOS 版本，但 iOS 用户仍然可以使用一些�
 - 入口与节点网络监控
 - UDP: 大多数支持Full Cone
 - 客户端数目：10
-- 付款方式：支付宝、虚拟币
+- 付款方式：支付宝、微信、USDT
 - TG频道和交流群：官网指导进入，关注人数1万+
 - 专门客服：有
 - 流媒体解锁情况：Netflix、Disney+
@@ -144,6 +144,6 @@ Clash 目前没有官方的 iOS 版本，但 iOS 用户仍然可以使用一些�
 ## 推荐阅读：
 
 - [TAG 机场多年使用和套餐评测](https://github.com/xiaoming2028/TAG-VPN)
-- [MESL 节点、家宽 IP 和流媒体评测](https://github.com/xiaoming2028/MESL)
 - [WgetCloud 两年使用和套餐评测](https://github.com/xiaoming2028/WgetCloud)
+- [MESL 节点、家宽 IP 和流媒体评测](https://github.com/xiaoming2028/MESL)
 - [红杏云套餐、多设备和客户端评测](https://github.com/xiaoming2028/hongxingyun)
