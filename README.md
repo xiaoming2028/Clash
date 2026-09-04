@@ -4,7 +4,9 @@
 
 找 Clash 客户端，先确认系统和芯片架构，再挑一款合适的软件。Windows可以从Clash Verge Rev开始，想在电脑和安卓上使用相近界面，可以看FlClash；iPhone、iPad则查看对应的App Store应用。新手先完成一次订阅导入，比反复比较软件名称更有用。
 
-下面的链接来自各项目开发者的 GitHub 发布页和 App Store。安装客户端后，还需要导入可用的订阅或节点配置。**已有订阅可以直接下载并导入，没有订阅再看后面的机场选择。**
+下面的链接来自各项目开发者的 GitHub 发布页和 App Store。安装客户端后，还需要导入可用的订阅或节点配置。
+
+**已有订阅可以直接下载并导入，没有订阅再看后面的机场选择。**
 
 ## 按设备快速找到Clash下载地址
 
@@ -37,7 +39,7 @@
 
 上表给了FlClash的两种Mac安装包。Apple M系列选择`arm64`，Intel选择`amd64`。Clash Verge Rev也有Mac版本，其包名对应`aarch64`和`x64`，可以在[Mac与其他平台发布页](https://github.com/clash-verge-rev/clash-verge-rev/releases/latest)中选择。
 
-喜欢菜单栏操作方式，还可以查看[ClashX.Meta发布页](https://github.com/MetaCubeX/ClashX.Meta/releases/latest)。本次核对的版本是1.4.44，下载文件名为`ClashX.Meta.zip`。注意核对完整项目名称，ClashX与ClashX.Meta不应混成同一个下载来源。
+喜欢菜单栏操作方式，还可以查看[ClashX.Meta发布页](https://github.com/MetaCubeX/ClashX.Meta/releases/latest)。
 
 芯片架构匹配以后，还要确认客户端要求的最低macOS版本。尤其是旧系统，不要仅凭文件扩展名是DMG就认定能够安装。遇到安全提示，先核实来源和开发者说明，不要直接复制网上关闭系统安全检查的命令。
 
@@ -86,7 +88,7 @@ Debian、Ubuntu等系统通常选择DEB包，Fedora等系统通常选择RPM包�
 
 我把TAG留作主用选择，看重的是地区覆盖和不同出口的选择空间。日常使用常见地区，偶尔还需要冷门地区、家宽或原生IP，可以先看它。只用香港、日本等少数地区，预算又很紧，就不必为自己用不到的节点资源多花钱。
 
-购买前确认需要的地区是否在所选套餐内，同时核对流量、节点倍率和客户端兼容性。我的选择方法是先买可接受的短周期，在自己的网络下测试常用网站和晚高峰，再决定是否续费。更多判断见[TAG长期使用与套餐评测](https://github.com/xiaoming2028/TAG-VPN)。
+购买前确认需要的地区是否在所选套餐内，同时核对流量、节点倍率和客户端兼容性。我的选择方法是先买可接受的短周期，在自己的网络下测试常用网站和晚高峰，再决定是否续费。更多详细实测见[TAG长期使用与套餐评测](https://github.com/xiaoming2028/TAG-VPN)。
 
 👉 <a href="https://570836.l49.net/#/auth/d2RtVGgb" rel="sponsored nofollow"><strong>点击进入TAG官网选购套餐（支持支付宝和微信）</strong></a>
 
@@ -94,7 +96,7 @@ Debian、Ubuntu等系统通常选择DEB包，Fedora等系统通常选择RPM包�
 
 快雷GO我从2024年底开始用。它的节点数量不算多，但常用地区能够覆盖我的日常需求，电信方向优化后的体验也有改善。如果你的用途主要集中在常见地区，又在意电信晚高峰表现，可以选它。需要大量冷门出口的人，选TAG会更合适。
 
-选快雷GO套餐，我会先把设备数和流量放在一起看。个人日常使用先比较中包，多设备或视频、下载用量较大时再看大包；确实只有一两台设备、用量很少，小包也可以考虑。各档同时使用额度和节点倍率要在购买前核对，不能只按套餐名称或纸面流量决定。
+选快雷GO套餐，我会先把设备数和流量放在一起看。个人日常使用先比较中包，多设备或视频、下载用量较大时再看大包；确实只有一两台设备、用量很少，小包也可以考虑。各档同时使用额度和节点倍率要在购买前核对，不能只按套餐名称或纸面流量决定。更多详细实测见[快雷GO机场真实使用体验与套餐选择](https://github.com/xiaoming2028/KuaiLeiGO)
 
 👉 <a href="https://www.kuaileigo.top/register?code=tNhxxKq0" rel="sponsored nofollow"><strong>点击进入快雷GO官网选购套餐（支持支付宝和微信）</strong></a>
 
