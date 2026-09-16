@@ -100,7 +100,7 @@ TAG机场作为我这么多年的主用机场，我看中的是**地区覆盖广
 - 同一地区往往有多种落地类型可选，遇到某条不合适时换一条就能继续用
 - 有轻量年付流量包（俗称“传家宝”），适合做长期备用
 
-如果是低频备用可以看 Special 年套餐，日常主力可以从 Bronze 套餐开始，想先按月测试或者每月需要更多流量，可以考虑 Silver套餐。我的习惯是先买可接受的短周期，在自己网络下测试常用网站和晚高峰，再决定是否续费。更多判断见[TAG长期使用与套餐评测](https://github.com/xiaoming2028/TAG-VPN)。
+如果是低频备用可以看 Special 年套餐，日常主力可以从 Bronze 套餐开始，想先按月测试或者每月需要更多流量，可以考虑 Silver套餐。我的习惯是先买可接受的短周期，在自己网络下测试常用网站和晚高峰，再决定是否续费。
 
 👉 <a href="https://570836.l49.net/#/auth/d2RtVGgb" rel="sponsored nofollow"><strong>点击进入TAG官网选购套餐（支持支付宝和微信）</strong></a>
 
@@ -120,7 +120,7 @@ TAG机场作为我这么多年的主用机场，我看中的是**地区覆盖广
 
 如果你的使用主要集中在香港、日本、新加坡、台湾、美国等常见地区，又特别在意电信晚高峰体验，优先考虑它。需要大量冷门出口或极致原生IP覆盖的，还是TAG更合适。
 
-选套餐时，我会同时看**流量 + 设备数 + 倍率**。个人日常先对比中包；多设备或视频/下载用量大再看大包；只有一两台设备且用量很少，小包就够。各档同时在线设备和节点倍率务必在购买前核对，别只看纸面流量。更多详细实测见[快雷GO机场真实使用体验与套餐选择](https://github.com/xiaoming2028/KuaiLeiGO)
+选套餐时，我会同时看**流量 + 设备数 + 倍率**。个人日常先对比中包；多设备或视频/下载用量大再看大包；只有一两台设备且用量很少，小包就够。各档同时在线设备和节点倍率务必在购买前核对，别只看纸面流量。
 
 👉 <a href="https://www.kuaileigo.top/register?code=tNhxxKq0" rel="sponsored nofollow"><strong>点击进入快雷GO官网选购套餐（支持支付宝和微信）</strong></a>
 
@@ -153,6 +153,7 @@ FlClash本次发布附有`SHA256SUMS`，可用于核对下载文件与发布方�
 ## 推荐阅读：
 
 - [TAG 机场多年使用和套餐评测](https://github.com/xiaoming2028/TAG-VPN)
+- [快雷GO机场真实使用体验与套餐选择](https://github.com/xiaoming2028/KuaiLeiGO)
 - [WgetCloud 两年使用和套餐评测](https://github.com/xiaoming2028/WgetCloud)
 - [MESL 节点、家宽 IP 和流媒体评测](https://github.com/xiaoming2028/MESL)
 - [红杏云套餐、多设备和客户端评测](https://github.com/xiaoming2028/hongxingyun)
