@@ -1,6 +1,6 @@
 # Clash官网各个版本 Clash客户端下载地址指南2026，Windows、Mac、Android和iOS版本怎么选 
 
-> 更新于 2026 年 9 月
+> 更新于 2026 年 10 月
 
 找 Clash 客户端，先确认系统和芯片架构，再挑一款合适的软件。Windows可以从Clash Verge Rev开始，想在电脑和安卓上使用相近界面，可以看FlClash；iPhone、iPad则查看对应的App Store应用。新手先完成一次订阅导入，比反复比较软件名称更有用。
 
